@@ -2,6 +2,7 @@ action (GetVolume) {
   collect {
     input (currency) {
       type (Currency)      
+      min (Required) max (One)
     }
     input (targetCurrency) {
       type (TargetCurrency)

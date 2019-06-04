@@ -1,7 +1,22 @@
+train (t-x2sjuff36klqqvgg35hc334kj) {
+  utterance ("[g:GetVolume] what is the volume of (xrp)[v:Currency:XRP] in (dollars)[v:TargetCurrency:USD]")
+  plan (Y2BhkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYZBAk3NPLQnLzynNTWUQR5NxLi0qSs1LrmSQRZMISSxKTy2BSzMzMDIwAUkGIA2CEAAXBQA=)
+  last-modified (1559686265238)
+}
+train (t-x3mghublubtenkm16i0q538mb) {
+  utterance ([g:GetPrice:continue:GetVolume] what is the price)
+  plan (Y2BmkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLY0g4lxYVpeYlVzIwMTACMQOQZGRggNEA)
+  last-modified (1559686718562)
+}
 train (t-x69ddlfw7m0uoy2x9xlxz1nl1) {
   utterance ("[g:GetPrice] price of (ethereum)[v:Currency:ETH] in (us dollars)[v:TargetCurrency:USD]")
   plan (Y2BhkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLY0g4lxYVpeYlVzLIokmEJBalp5bApZkZGBmYgCQDkAZBCICLAgA=)
-  last-modified (1559684749101)
+  last-modified (1559687627831)
+}
+train (t-xc4q49olp3m7pn6ivy9m0zvlu) {
+  utterance ([g:GetVolume:continue:GetInfo] what is the volume)
+  plan (Y2BmkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYZBAk3NPLQnLzynNTWUQR5NxLi0qSs1LrmRgYmAEYgYgycjAAKMB)
+  last-modified (1559686693124)
 }
 train (t-xjnpm10l25tpj1v4c1fvcjhp9) {
   utterance ("[g:GetInfo] (ethereum)[v:Currency:ETH]")

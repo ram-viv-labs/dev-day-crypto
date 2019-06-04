@@ -1,5 +1,5 @@
 train (t-apjy83xhr6wamitzfy6jdd2xr) {
-  utterance ("[g:PriceResult] What is the price of (3)[v:Amount] (bitcoins)[v:Currency:BTC] in (Euro)[v:TargetCurrency:EUR]?")
-  plan (Y2BlkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLM4iiSTjm5pfmYap3Li0qSs1LrmSQRZMISSxKTy2BS7MwMDIwMTADaQYgCwJhACQGlQMA)
-  last-modified (1559684513055)
+  utterance ("[g:GetPrice] What is the price of (3)[v:Amount] (bitcoins)[v:Currency:BTC] in (Euro)[v:TargetCurrency:EUR]?")
+  plan (Y2BlkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLM4iiSTjm5pfmYap3Li0qSs1LrmSQRZMISSxKTy2BS7MwMDIwMTADaQYgCwJhAEkOAA==)
+  last-modified (1559688620866)
 }

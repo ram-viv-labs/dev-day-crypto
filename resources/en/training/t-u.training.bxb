@@ -1,0 +1,5 @@
+train (t-uv3omefzpvs8o9taqb5uxr09b) {
+  utterance ("[g:GetPrice] what is the price of (ethereum)[v:Currency:ETH] in (rubles)[v:TargetCurrency:RUR]")
+  plan (Y2BhkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLY0g4lxYVpeYlVzLIokmEJBalp5bApZkZGBmYgCQDkAZBCICLAgA=)
+  last-modified (1559687558396)
+}

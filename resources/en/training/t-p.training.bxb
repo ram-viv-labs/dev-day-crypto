@@ -1,0 +1,5 @@
+train (t-pd63jtkctzx8ruuau31lkaayp) {
+  utterance ("[g:GetPrice] what is the price of (bitcoin cash)[v:Currency:BCH] in (euros)[v:TargetCurrency:EUR]")
+  plan (Y2BhkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLY0g4lxYVpeYlVzLIokmEJBalp5bApZkZGBmYgCQDkAZBCICLAgA=)
+  last-modified (1559688521052)
+}

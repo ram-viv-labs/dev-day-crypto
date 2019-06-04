@@ -4,11 +4,11 @@ action (GetPrice) {
       type (Currency)
       min (Required) max (One)
     }
+    input (targetCurrency) {
+      type (TargetCurrency)
+    }
     input (amount) {
       type (Amount)      
-    }
-    input (taretCurrency) {
-      type (TargetCurrency)
     }
   }
   output (PriceResult)

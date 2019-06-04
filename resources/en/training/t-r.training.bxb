@@ -3,3 +3,8 @@ train (t-rv8usoq1foixm8u3domhto5oy) {
   plan (Y2BiEE0uqiwoydcrKUpMzk4t0gtKLS7NKWEQQxN2Ty3xzEvLZ2AEQgYoBpIA)
   last-modified (1559684857554)
 }
+train (t-ryurf4s0ybg6tcrlvid3nkaoq) {
+  utterance ("[g:GetVolume] volume of (xrp)[v:Currency:BCH] in (eur)[v:TargetCurrency:EUR]")
+  plan (Y2BhkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYZBAk3NPLQnLzynNTWUQR5NxLi0qSs1LrmSQRZMISSxKTy2BSzMzMDIwAUkGIA2CEAAXBQA=)
+  last-modified (1559686564874)
+}

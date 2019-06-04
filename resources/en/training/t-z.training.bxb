@@ -1,5 +1,15 @@
 train (t-zj16qrlinrffo33mxrxvt15bw) {
-  utterance ("[g:GetPrice] price of (bitcoin)[v:crypto.tracker.Currency:BTC]")
+  utterance ("[g:GetPrice] price of (bitcoin)[v:Currency:BTC]")
   plan (Y2BmkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLY0g4lxYVpeYlVzIwMTACMQOQZGQAASgfAA==)
-  last-modified (1559684602396)
+  last-modified (1559685852454)
+}
+train (t-zso7vgs56qujxq4kj8mz3o7ql) {
+  utterance ([g:GetPrice:continue:GetInfo] what is the price)
+  plan (Y2BmkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLY0g4lxYVpeYlVzIwMTACMQOQZGRggNEA)
+  last-modified (1559686741387)
+}
+train (t-zvn75nzcccjttdz95z5ikcy7z) {
+  utterance ("[g:GetVolume] tell me the volume of (btc)[v:Currency:BTC]")
+  plan (Y2BmkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYZBAk3NPLQnLzynNTWUQR5NxLi0qSs1LrmRgYmAEYgYgycgAAlA+AA==)
+  last-modified (1559686336384)
 }

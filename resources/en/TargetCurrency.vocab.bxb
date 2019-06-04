@@ -1,13 +1,13 @@
-vocab (crypto.tracker.TargetCurrency) {
+vocab (crypto.tracker.Currency) {
   "BTC" {"btc", "bitcoin" "bitcoins"}
   "ETH" {"eth", "ethereum"}
-  "BCH" {"bitcoin cash"}
-        "LTC" {"litecoin", "lite coin"}
-          "XRP" {"ripple coin" "ripple"}
+  "BCH" {"bch" "bitcoin cash"}
+        "LTC" {"ltc" "litecoin" "lite coin"}
+          "XRP" {"xrp" "ripple coin" "ripple"}
             
-            "USD" {"dollars" "us dollars" "united states dollars"}
-              "EUR" {"euro" "euros"}
-                "RUR" {"ruble" "rouble"}
-                  "GBP" {"pound" "pounds" "great british pounds"}
+            "USD" {"usd" "dollars" "us dollars" "united states dollars"}
+              "EUR" {"eur" "euro" "euros"}
+                "RUR" {"rur" "ruble" "rouble" "rubles"}
+                  "GBP" {"gbp" "pound" "pounds" "great british pounds" "sterling"}
 
 }

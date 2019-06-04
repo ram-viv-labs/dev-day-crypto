@@ -1,7 +1,7 @@
 endpoints {
   action-endpoints {
     action-endpoint (GetPrice) {
-      accepted-inputs (amount, currency, targetCurrency)
+      accepted-inputs (currency, targetCurrency, amount)
       remote-endpoint ("{remote.url}/price/get-price") {
         method (GET)
       }
@@ -13,7 +13,7 @@ endpoints {
       }
     }
     action-endpoint (GetInfo) {
-      accepted-inputs (currency)
+      accepted-inputs (currency, targetCurrency)
       remote-endpoint ("{remote.url}/price") {
         method (GET)
       }

@@ -1,0 +1,5 @@
+train (t-elyan14vrtcwuls5ftlh0ymlx) {
+  utterance ("[g:GetVolume] (리플코인)[v:Currency:XRP] 볼륨이 뭔가요?")
+  plan (Y2BmkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYZBAk3NPLQnLzynNTWUQR5NxLi0qSs1LrmRgYmAEYgYgycgAAlA+AA==)
+  last-modified (1559686888771)
+}

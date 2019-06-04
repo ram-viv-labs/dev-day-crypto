@@ -1,0 +1,22 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (GetPrice) {
+      accepted-inputs (amount, currency, targetCurrency)
+      remote-endpoint ("{remote.url}/price/get-price") {
+        method (GET)
+      }
+    }
+    action-endpoint (GetVolume) {
+      accepted-inputs (currency, targetCurrency)
+      remote-endpoint ("{remote.url}/volume/get-volume") {
+        method (GET)
+      }
+    }
+    action-endpoint (GetInfo) {
+      accepted-inputs (currency)
+      remote-endpoint ("{remote.url}/price") {
+        method (GET)
+      }
+    }
+  }
+}

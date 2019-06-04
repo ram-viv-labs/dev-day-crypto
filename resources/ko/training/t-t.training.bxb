@@ -1,0 +1,5 @@
+train (t-t7a6xrk08hvinenp50ivl6qm5) {
+  utterance ("[g:GetVolume] (비트코인)[v:Currency:BTC] 볼륨")
+  plan (Y2BmkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYZBAk3NPLQnLzynNTWUQR5NxLi0qSs1LrmRgYmAEYgYgycgAAlA+AA==)
+  last-modified (1559687140978)
+}

@@ -1,3 +1,12 @@
-name (Currency) {
+enum (Currency) {
+  symbol (BTC)
+  symbol (ETH)
+  symbol (BCH)
+  symbol (LTC)
+  symbol (XRP)
   
+  symbol (USD)
+  symbol (EUR)
+  symbol (RUR)
+  symbol (GBP)
 }

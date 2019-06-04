@@ -5,8 +5,7 @@ action (GetPrice) {
       min (Required) max (One)
     }
     input (amount) {
-      type (Amount)
-      min (Required) max (One)
+      type (Amount)      
     }
     input (taretCurrency) {
       type (TargetCurrency)

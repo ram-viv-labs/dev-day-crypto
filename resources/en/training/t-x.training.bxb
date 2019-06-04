@@ -1,0 +1,10 @@
+train (t-x69ddlfw7m0uoy2x9xlxz1nl1) {
+  utterance ("[g:GetPrice] price of (ethereum)[v:Currency:ETH] in (us dollars)[v:TargetCurrency:USD]")
+  plan (Y2BhkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLY0g4lxYVpeYlVzLIokmEJBalp5bApZkZGBmYgCQDkAZBCICLAgA=)
+  last-modified (1559684749101)
+}
+train (t-xjnpm10l25tpj1v4c1fvcjhp9) {
+  utterance ("[g:GetInfo] (ethereum)[v:Currency:ETH]")
+  plan (Y2BmEE0uqiwoydcrKUpMzk4t0gtKLS7NKWEQQxN2Ty3xzEvLZxBHE3cuLSpKzUuuZGBiYARiBiDJyAACUD4A)
+  last-modified (1559684661399)
+}

@@ -1,0 +1,5 @@
+train (t-zj16qrlinrffo33mxrxvt15bw) {
+  utterance ("[g:GetPrice] price of (bitcoin)[v:crypto.tracker.Currency:BTC]")
+  plan (Y2BmkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLY0g4lxYVpeYlVzIwMTACMQOQZGQAASgfAA==)
+  last-modified (1559684602396)
+}

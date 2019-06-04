@@ -1,0 +1,5 @@
+train (t-0lpo262kfv7hd1dce7685ybrb) {
+  utterance ("[g:GetInfo] (bitcoin)[v:Currency:BTC]")
+  plan (Y2BmEE0uqiwoydcrKUpMzk4t0gtKLS7NKWEQQxN2Ty3xzEvLZxBHE3cuLSpKzUuuZGBiYARiBiDJyAACUD4A)
+  last-modified (1559684638963)
+}

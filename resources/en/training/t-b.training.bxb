@@ -1,0 +1,10 @@
+train (t-br69wgxlfytkiybq08bbrq45w) {
+  utterance ("[g:GetVolume] tell me the volume of (ripple coin)[v:Currency:XRP]")
+  plan (Y2BmkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYZBAk3NPLQnLzynNTWUQR5NxLi0qSs1LrmRgYmAEYgYgycgAAlA+AA==)
+  last-modified (1559685197481)
+}
+train (t-bxivwyptyjfcsduku7dfhze25) {
+  utterance ([g:GetInfo:continue:GetPrice] tell me more)
+  plan (Y2BiEE0uqiwoydcrKUpMzk4t0gtKLS7NKWEQQxN2Ty3xzEvLZ2AEQgYoBpIA)
+  last-modified (1559684827776)
+}

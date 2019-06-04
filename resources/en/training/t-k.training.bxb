@@ -1,0 +1,5 @@
+train (t-ksz2nfn4vp5ssha9v903t03dn) {
+  utterance ("[g:GetVolume] volume of (eth)[v:Currency:ETH]")
+  plan (Y2BmkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYZBAk3NPLQnLzynNTWUQR5NxLi0qSs1LrmRgYmAEYgYgycgAAlA+AA==)
+  last-modified (1559684951327)
+}

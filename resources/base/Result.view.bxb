@@ -1,0 +1,30 @@
+result-view {
+    match: Result (result)
+    render {
+        layout {
+            section {
+                content {
+                    paragraph {
+                        value ("#{value(result.name)} (#{value(result.tickerSymbol)})")
+                        style (Title_S)
+                    }
+                    cell-card {
+                        slot1 {
+                            image {
+                                url ("#{value(result.image)}")
+                                shape (Square)
+                            }
+                        }
+                        slot2 {
+                            content {
+                                order (PrimarySecondary)
+                                primary ("#{value(result.price)}")
+                                secondary ("#{value(result.change)} Volume: #{value(result.volume)}")
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

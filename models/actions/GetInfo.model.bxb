@@ -1,0 +1,9 @@
+action (GetInfo) {
+  collect {
+    input (currency) {
+      type (Currency)
+    }
+  }
+  output (Result)
+  type (Calculation)
+}

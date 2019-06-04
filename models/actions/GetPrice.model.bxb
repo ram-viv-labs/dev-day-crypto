@@ -1,0 +1,17 @@
+action (GetPrice) {
+  collect {
+    input (currency) {
+      type (Currency)
+      min (Required) max (One)
+    }
+    input (amount) {
+      type (Amount)
+      min (Required) max (One)
+    }
+    input (taretCurrency) {
+      type (TargetCurrency)
+    }
+  }
+  output (PriceResult)
+  type (Calculation)
+}

@@ -1,0 +1,12 @@
+action (GetVolume) {
+  collect {
+    input (currency) {
+      type (Currency)      
+    }
+    input (targetCurrency) {
+      type (TargetCurrency)
+    }
+  }
+  output (PriceResult)
+  type(Calculation)
+}

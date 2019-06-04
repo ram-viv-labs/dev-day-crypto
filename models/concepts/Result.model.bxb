@@ -1,0 +1,20 @@
+structure (Result) {
+  property (name) {
+    type (Name)
+  }
+  property (price) {
+    type (Price)
+  }
+  property (tickerSymbol) {
+    type (TickerSymbol)
+  }
+  property (volume) {
+    type (Volume)
+  }
+  property (change) {
+    type (Change)
+  }
+  property (image) {
+    type (Image)
+  }
+}

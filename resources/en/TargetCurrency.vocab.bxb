@@ -1,5 +1,5 @@
 vocab (crypto.tracker.TargetCurrency) {
-  "BTC" {"btc", "bitcoin"}
+  "BTC" {"btc", "bitcoin" "bitcoins"}
   "ETH" {"eth", "ethereum"}
   "BCH" {"bitcoin cash"}
         "LTC" {"litecoin", "lite coin"}

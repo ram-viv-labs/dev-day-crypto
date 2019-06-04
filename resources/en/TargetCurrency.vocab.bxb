@@ -8,6 +8,6 @@ vocab (crypto.tracker.TargetCurrency) {
             "USD" {"dollars" "us dollars" "united states dollars"}
               "EUR" {"euro" "euros"}
                 "RUR" {"ruble" "rouble"}
-                  "GBP" {"pounds" "great british pounds"}
+                  "GBP" {"pound" "pounds" "great british pounds"}
 
 }

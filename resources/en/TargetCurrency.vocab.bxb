@@ -6,7 +6,7 @@ vocab (crypto.tracker.TargetCurrency) {
           "XRP" {"ripple coin" "ripple"}
             
             "USD" {"dollars" "us dollars" "united states dollars"}
-              "EUR" {"euro"}
+              "EUR" {"euro" "euros"}
                 "RUR" {"ruble" "rouble"}
                   "GBP" {"pounds" "great british pounds"}
 

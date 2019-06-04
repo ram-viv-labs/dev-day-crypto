@@ -1,0 +1,10 @@
+train (t-pf1cpd7mu1rtahlwdz87z03iu) {
+  utterance ("[g:GetPrice] (비트코인)[v:Currency:BTC] 가격")
+  plan (Y2BmkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLY0g4lxYVpeYlVzIwMTACMQOQZGQAASgfAA==)
+  last-modified (1559687315940)
+}
+train (t-pirldtcas01kyvucrfqh06e9d) {
+  utterance ("[g:PriceResult] (비트코인)[v:Currency:BTC] (3)[v:Amount]개 가격을 (달러)[v:Currency:USD]로")
+  plan (Y2BjkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLM4iiSTjm5pfmYap3Li0qSs1LriRDgpWBkYGJgZmBBchiALIZgWxmIAkCPEDIAJRhAKoAywMA)
+  last-modified (1559687224402)
+}

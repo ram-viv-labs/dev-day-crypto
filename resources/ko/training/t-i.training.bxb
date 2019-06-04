@@ -1,0 +1,15 @@
+train (t-il7qeetswpm363my1ef5l06j1) {
+  utterance ([g:GetInfo:continue:GetPrice] 정보를 더 줘)
+  plan (Y2BiEE0uqiwoydcrKUpMzk4t0gtKLS7NKWEQQxN2Ty3xzEvLZ2AEQgYoBpIA)
+  last-modified (1559686954353)
+}
+train (t-imygay47qo5hcp9w4yafk5qs4) {
+  utterance ("[g:Result] (비트코인)[v:Currency:BTC]")
+  plan (Y2BmEE0uqiwoydcrKUpMzk4t0gtKLS7NKWEQQxN2Ty3xzEvLZxBHE3cuLSpKzUuuZGBiYARiBiDJyAACTBAMAA==)
+  last-modified (1559686592896)
+}
+train (t-it539u6pydnwg941f64vqgs7e) {
+  utterance ([g:GetInfo:continue:GetVolume] 정보를 더 줘)
+  plan (Y2BiEE0uqiwoydcrKUpMzk4t0gtKLS7NKWEQQxN2Ty3xzEvLZ2AEQgYoBpIA)
+  last-modified (1559687021271)
+}

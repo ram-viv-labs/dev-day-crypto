@@ -1,0 +1,5 @@
+train (t-3zvjg8ayv21iq5a7spq40i9aq) {
+  utterance ("[g:PriceResult] (비트코인)[v:Currency:BTC] (2)[v:Amount]개 가격")
+  plan (Y2BhkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLM4iiSTjm5pfmYap3Li0qSs1LrmRgZmBkYAKSDEAaBCEAxAeLAgA=)
+  last-modified (1559686821263)
+}

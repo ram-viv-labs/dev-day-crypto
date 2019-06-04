@@ -10,3 +10,4 @@ enum (Currency) {
   symbol (RUR)
   symbol (GBP)
 }
+

@@ -1,5 +1,5 @@
 train (t-lp0r4vjg06wgekg4wk30mn0xn) {
-  utterance ("[g:GetPrice] (비트코인)[v:Currency:BTC] 가격을 (달러)[v:Currency:USD]로")
-  plan (Y2BlkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLY0g4lxYVpeYlV5IhwcLAyMDEwAykGcAsJiDJwMADhAxAUUaIDAA=)
-  last-modified (1559687084344)
+  utterance ("[g:GetPrice] (비트코인)[v:Currency:BTC] 가격을 (달러)[v:TargetCurrency:USD]로")
+  plan (Y2BhkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLY0g4lxYVpeYlVzLIokmEJBalp5bApZkZGBmYgCQDkAZBCICLAgA=)
+  last-modified (1559692141157)
 }

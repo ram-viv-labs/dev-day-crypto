@@ -1,0 +1,12 @@
+vocab (crypto.tracker.TargetCurrency) {
+  "BTC" {"비트코인"}
+  "ETH" {"이더리움"}
+  "BCH" {"비트코인캐쉬"}
+  "LTC" {"라이트코인"}
+  "XRP" {"리플코인"}
+            
+  "USD" {"달러"}
+  "EUR" {"유로"}
+  "RUR" {"루블"}
+  "GBP" {"파운드"}
+}

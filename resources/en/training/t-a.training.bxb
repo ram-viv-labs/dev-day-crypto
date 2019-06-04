@@ -1,5 +1,10 @@
-train (t-apjy83xhr6wamitzfy6jdd2xr) {
-  utterance ("[g:GetPrice] What is the price of (3)[v:Amount] (bitcoins)[v:Currency:BTC] in (Euro)[v:TargetCurrency:EUR]?")
-  plan (Y2BlkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLM4iiSTjm5pfmYap3Li0qSs1LrmSQRZMISSxKTy2BS7MwMDIwMTADaQYgCwJhAEkOAA==)
-  last-modified (1559688620866)
+train (t-agkvq89i7px3n4qrqsphbbfni) {
+  utterance ("[g:GetVolume] volume of (xrp)[v:Currency:XRP] in (eur)[v:TargetCurrency:EUR]")
+  plan (Y2BhkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYZBAk3NPLQnLzynNTWUQR5NxLi0qSs1LrmSQRZMISSxKTy2BSzMzMDIwAUkGIA2CEAAXBQA=)
+  last-modified (1559692473714)
+}
+train (t-av1ay3z2m8n24a5h7a5raousk) {
+  utterance ("[g:GetPrice:continue] price of (5)[v:Amount] coins in (gbp)[v:TargetCurrency:GBP]")
+  plan (Y2BlkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLM4iiSTjm5pfmYap3Li0qSs1LrmSQRZMISSxKTy2BS7MwMDIwMTADaQYgCwJhgBksB5QBAA==)
+  last-modified (1559692282598)
 }

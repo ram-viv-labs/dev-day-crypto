@@ -1,4 +1,4 @@
-vocab (crypto.tracker.Currency) {
+vocab (crypto.tracker.TargetCurrency) {
   "BTC" {"btc", "bitcoin" "bitcoins"}
   "ETH" {"eth", "ethereum"}
   "BCH" {"bch" "bitcoin cash"}

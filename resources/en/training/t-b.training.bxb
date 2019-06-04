@@ -3,6 +3,11 @@ train (t-br69wgxlfytkiybq08bbrq45w) {
   plan (Y2BmkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYZBAk3NPLQnLzynNTWUQR5NxLi0qSs1LrmRgYmAEYgYgycgAAlA+AA==)
   last-modified (1559685197481)
 }
+train (t-btuslljsfdr0abtu3i4hh1doo) {
+  utterance ("[g:GetPrice:continue] (10)[v:Amount] coins in (rur)[v:TargetCurrency:RUR]")
+  plan (Y2BlkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLM4iiSTjm5pfmYap3Li0qSs1LrmSQRZMISSxKTy2BS7MwMDIwMTADaQYgCwJhgBksB5QBAA==)
+  last-modified (1559692357601)
+}
 train (t-bxivwyptyjfcsduku7dfhze25) {
   utterance ([g:GetInfo:continue:GetPrice] tell me more)
   plan (Y2BiEE0uqiwoydcrKUpMzk4t0gtKLS7NKWEQQxN2Ty3xzEvLZ2AEQgYoBpIA)

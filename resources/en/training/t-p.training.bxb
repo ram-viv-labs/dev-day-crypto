@@ -3,3 +3,8 @@ train (t-pd63jtkctzx8ruuau31lkaayp) {
   plan (Y2BhkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLY0g4lxYVpeYlVzLIokmEJBalp5bApZkZGBmYgCQDkAZBCICLAgA=)
   last-modified (1559688521052)
 }
+train (t-ptvy5kse2widpw7ta8xxskc9a) {
+  utterance ("[g:GetPrice:continue] tell me in (eur)[v:TargetCurrency:EUR]")
+  plan (Y2BhkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLY0g4lxYVpeYlVzLIokmEJBalp5bApZkZGBmYgCQDkAZBCGACsoBiAA==)
+  last-modified (1559692387279)
+}

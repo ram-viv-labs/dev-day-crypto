@@ -1,5 +1,5 @@
 train (t-thnj96hmkjkh6f2ighw5ds7yl) {
-  utterance ("[g:GetVolume] what is the volume of (litecoin)[v:Currency:LTC] in pounds")
-  plan (Y2BmkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYZBAk3NPLQnLzynNTWUQR5NxLi0qSs1LrmRgYmAEYgYgycgAAlA+AA==)
-  last-modified (1559686383611)
+  utterance ("[g:GetVolume] what is the volume of (litecoin)[v:Currency:LTC] in (pounds)[v:TargetCurrency:GBP]")
+  plan (Y2BhkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYZBAk3NPLQnLzynNTWUQR5NxLi0qSs1LrmSQRZMISSxKTy2BSzMzMDIwAUkGIA2CEAAXBQA=)
+  last-modified (1559690181074)
 }

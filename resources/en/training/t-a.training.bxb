@@ -8,3 +8,8 @@ train (t-av1ay3z2m8n24a5h7a5raousk) {
   plan (Y2BlkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLM4iiSTjm5pfmYap3Li0qSs1LrmSQRZMISSxKTy2BS7MwMDIwMTADaQYgCwJhgBksB5QBAA==)
   last-modified (1559692282598)
 }
+train (t-apjy83xhr6wamitzfy6jdd2xr) {
+  utterance ("[g:GetPrice] What is the price of (3)[v:Amount] (bitcoins)[v:Currency:BTC] in (Euro)[v:TargetCurrency:EUR]?")
+  plan (Y2BlkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLM4iiSTjm5pfmYap3Li0qSs1LrmSQRZMISSxKTy2BS7MwMDIwMTADaQYgCwJhAEkOAA==)
+  last-modified (1559690610167)
+}

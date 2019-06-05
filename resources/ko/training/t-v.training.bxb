@@ -1,0 +1,5 @@
+train (t-vusf9rg10zqtt17y2h16mbre9) {
+  utterance ("[g:PriceResult:continue] (파운드)[v:TargetCurrency:GBP]로")
+  plan (Y2BhkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYZBAk3NPLQnLzynNTWUQR5NxLi0qSs1LrmSQRZMISSxKTy2BSzMzMDIwAUkGIA2CEMAExEAxAA==)
+  last-modified (1559692529704)
+}

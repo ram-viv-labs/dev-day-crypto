@@ -19,7 +19,7 @@ result-view {
                             content {
                                 order (PrimarySecondary)
                                 primary ("#{value(result.price)}")
-                                secondary ("#{value(result.change)} Volume: #{value(result.volume)}")
+                                secondary ("Chanage: #{value(result.change)} Volume: #{value(result.volume)}")
                             }
                         }
                     }

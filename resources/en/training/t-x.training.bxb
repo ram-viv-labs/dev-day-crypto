@@ -11,7 +11,7 @@ train (t-x3mghublubtenkm16i0q538mb) {
 train (t-x69ddlfw7m0uoy2x9xlxz1nl1) {
   utterance ("[g:GetPrice] price of (ethereum)[v:Currency:ETH] in (us dollars)[v:TargetCurrency:USD]")
   plan (Y2BhkEouqiwoydcrKUpMzk4t0gsoykxODUotLs0pYRBHk3NPLQFLY0g4lxYVpeYlVzLIokmEJBalp5bApZkZGBmYgCQDkAZBCICLAgA=)
-  last-modified (1559687627831)
+  last-modified (1559689532018)
 }
 train (t-xc4q49olp3m7pn6ivy9m0zvlu) {
   utterance ([g:GetVolume:continue:GetInfo] what is the volume)

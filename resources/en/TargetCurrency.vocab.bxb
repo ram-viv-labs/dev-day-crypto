@@ -2,12 +2,11 @@ vocab (crypto.tracker.TargetCurrency) {
   "BTC" {"btc", "bitcoin" "bitcoins"}
   "ETH" {"eth", "ethereum"}
   "BCH" {"bch" "bitcoin cash"}
-        "LTC" {"ltc" "litecoin" "lite coin"}
-          "XRP" {"xrp" "ripple coin" "ripple"}
+  "LTC" {"ltc" "litecoin" "lite coin"}
+  "XRP" {"xrp" "ripple coin" "ripple"}
             
-            "USD" {"usd" "dollars" "us dollars" "united states dollars"}
-              "EUR" {"eur" "euro" "euros"}
-                "RUR" {"rur" "ruble" "rouble" "rubles"}
-                  "GBP" {"gbp" "pound" "pounds" "great british pounds" "sterling"}
-
+  "USD" {"usd" "dollars" "us dollars" "united states dollars"}
+  "EUR" {"eur" "euro" "euros"}
+  "RUR" {"rur" "ruble" "rouble" "rubles"}
+  "GBP" {"gbp" "pound" "pounds" "great british pounds" "sterling"}
 }
